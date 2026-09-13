@@ -48,7 +48,7 @@ Computer_Vision/
 Clone the repository:
 
 ```bash
-git clone <your-repository-link>
+git clone https://github.com/Dishitha0607/Opencv-color-detection
 ```
 
 Navigate to the project folder:
